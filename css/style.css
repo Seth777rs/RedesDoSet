@@ -1,0 +1,38 @@
+.body, html{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.titulo{
+    color: rgb(228, 57, 65);
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+    text-align: center;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+    font-size: large;
+    font-weight:400;
+    text-align: center;
+}
+
+a:link{
+    color: rgb(255, 109, 109);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(240, 96, 96);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: large
+}
+
+a:active{
+    color: rgb(66, 65, 65);
+}
