@@ -22,7 +22,7 @@ a{
 }
 
 a:link{
-    color: rgb(255, 109, 109);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -34,5 +34,5 @@ a:hover{
 }
 
 a:active{
-    color: rgb(66, 65, 65);
+    color: rgb(255, 255, 255);
 }
